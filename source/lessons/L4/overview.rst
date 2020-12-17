@@ -10,7 +10,7 @@ The main components of today's lesson can be found in the navigation bar to the 
 Learning goals
 --------------
 
-After this weeks lesson your should be able to:
+After this weeks lesson you should be able to:
 
 - Explain how functions are used and their benefits
 - Create your own functions to calculate an output value based on an input value
